@@ -1,10 +1,10 @@
-![Telegram](https://telegram-set-webhook.ssx.tools/telegram.png)
+![Telegram](https://telegram-set-webhook.tools.dor.ky/telegram.png)
 
 ## Telegram Set Webhook
 
 You can use the form below to easily update the webhook URL for a telegram bot. This 
 runs completely within your browser and is secure. There is a hosted version that you 
-can use online at [telegram-set-webhook.ssx.tools](https://telegram-set-webhook.ssx.tools/)
+can use online at [telegram-set-webhook.tools.dor.ky](https://telegram-set-webhook.tools.dor.ky/)
 
 ## Feedback & Suggestions
 
